@@ -1,0 +1,8 @@
+jupyter==1.0.0
+myqlm==1.4.0
+qat-comm==1.3.1
+qat-core==1.4.0
+qat-devices==0.1.2
+qat-lang==2.1.0
+qat-variational==1.3.0
+qtconsole==5.1.1

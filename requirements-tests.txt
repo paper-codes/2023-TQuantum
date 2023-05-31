@@ -1,0 +1,2 @@
+parameterized==0.8.1
+sympy==1.8
